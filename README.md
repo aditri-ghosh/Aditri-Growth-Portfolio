@@ -60,7 +60,7 @@ When I ran Git commands, I received the error: `fatal: not a git repository (or 
 
 I learned that a folder must first be connected to a Git repository. Creating the GitHub repository and configuring Git locally helped me understand the relationship between local and remote repositories.
 
-## Issue 5: Git required an identity before committing
+### Issue 5: Git required an identity before committing
 
 **Problem:**
 
@@ -70,7 +70,7 @@ When attempting to create a commit, Git returned an "Author identity unknown" er
 
 I learned that Git requires a username and email address to be configured before commits can be created. I configured my Git identity through the terminal and was then able to commit my changes successfully.
 
-## Issue 6: Push to GitHub was rejected
+### Issue 6: Push to GitHub was rejected
 
 **Problem:**
 
@@ -80,7 +80,7 @@ My initial push to GitHub was rejected because the remote repository already con
 
 I learned how local and remote repositories can become out of sync. I pulled the remote changes, completed the merge process, and then successfully pushed my local changes to GitHub.
 
-## Issue 7: Claude Code and Codex extension installation
+### Issue 7: Claude Code and Codex extension installation
 
 **Problem:**
 
@@ -94,8 +94,6 @@ I learned how local and remote repositories can become out of sync. I pulled the
 **Solution:**
 
 I researched the issue, tested multiple installation approaches, and reviewed available documentation. Although I was unable to install the extensions successfully, I documented the problem and the troubleshooting steps taken. This experience reinforced the importance of systematic troubleshooting and clear documentation when a technical issue cannot be resolved immediately.
-
-## What I Learned
 
 # What I Learned
 
