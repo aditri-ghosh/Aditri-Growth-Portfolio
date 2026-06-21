@@ -4,7 +4,7 @@
 
 - Repositions LinkedIn from an outbound sales channel to a distribution engine. Rather than relying on cold outreach, content should be used to build familiarity, trust, and audience ownership before sales conversations occur.
 - Advocates for founder-led content as the primary B2B growth mechanism, but argues that generic expertise posts are no longer sufficient. As LinkedIn becomes more saturated, content must increasingly rely on personal narratives, real experiences, opinions, and defensible industry perspectives that cannot be replicated by AI.
-- Treats LinkedIn profiles as conversion-focused landing pages rather than digital resumes. Every profile element—including headline, featured links, custom buttons, and social proof—should support the conversion of profile visitors into followers, subscribers, leads, or customers.
+- Treats LinkedIn profiles as conversion-focused landing pages rather than digital resumes. Every profile element, including headline, featured links, custom buttons, and social proof, should support the conversion of profile visitors into followers, subscribers, leads, or customers.
 - Uses a structured content funnel framework that balances reach, authority, and conversion. Top-of-funnel content generates awareness, middle-of-funnel content establishes category expertise, and bottom-of-funnel content creates buying intent without overwhelming audiences with product promotion.
 
 ### Operational Metrics & Tactics

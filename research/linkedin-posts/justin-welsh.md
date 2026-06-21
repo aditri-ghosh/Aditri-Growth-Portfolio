@@ -1,21 +1,24 @@
 # Justin Welsh | Strategic B2B Framework
 
-###  Core Content Architecture
+### Core Content Architecture
 
-* Welsh runs a three-layer content funnel: short-form posts on X/LinkedIn/Instagram for discovery (tens of thousands of new people monthly), newsletter and long-form playbooks for authority-building, and low-priced digital courses plus a paid community for conversion—90% of revenue flows through this loop of digital products, community, and sponsored newsletter.
-* One validated idea propagates across every channel: he tests hooks on X for fast feedback, then expands winners into LinkedIn posts, threads, Instagram formats, and finally newsletter issues—reducing creative load while increasing signal before committing to long-form assets.
-* He explicitly rejects complexity as a growth strategy, citing his CRO experience at PatientPop where 20% of activities drove 80% of results (deep customer understanding, discovery questions, pain mapping)—a lesson he initially failed to apply when over-building funnels in his solopreneur business before simplifying back to written content only.
+- Operates a single-idea distribution system where one validated concept is repurposed across LinkedIn, X, newsletters, courses, and community assets. Content is treated as an expandable asset rather than a one-time publication.
+- Uses short-form content as a testing environment for audience demand. Ideas that perform well in social feeds are expanded into longer educational assets, products, and revenue-generating offers.
+- Prioritizes clarity and simplicity over content volume or funnel complexity. Growth comes from repeatedly communicating proven ideas rather than constantly creating new ones.
+- Builds content around personal experience and operational lessons rather than abstract expertise. Real-world examples create stronger audience trust and make educational content more memorable.
 
-###  Operational Metrics & Tactics
+### Operational Metrics & Tactics
 
-* Welsh publishes ~150 pieces of content per month and has written 200+ newsletters and 4,000+ social posts—using Claude as an editor (grading newsletters against compelling criteria) and pattern-spotter for underperforming content, not as a replacement for original storytelling.
-* He operates on a hypothesis-test loop inherited from enterprise sales leadership: form a hypothesis, prove or disprove it quickly, then iterate—arguing that copying his exact model fails without matching unique ability, target-market signal, and personal sustainability ("could I do this for 10 years?").
-* Revenue model is intentionally broad-reach, low-ticket: accessible pricing on courses (LinkedIn OS, content operating system) contrasts with high-ticket cohort models—Welsh acknowledges seven-figure outcomes are achievable with <5,000 LinkedIn followers and <1,000 email subscribers when offer density and delivery model differ.
+- Publishes at a high frequency while maintaining a structured repurposing workflow, allowing a relatively small number of core ideas to generate hundreds of content assets across multiple channels.
+- Uses AI primarily as an editorial and analytical assistant. Content ideas, stories, and opinions originate from personal experience, while AI is used to improve clarity, evaluate quality, and identify performance patterns.
+- Applies a hypothesis-testing framework to both content and business decisions. New ideas are treated as experiments that should be validated quickly before additional time or resources are invested.
+- Designs offers around sustainability and repeatability rather than maximum short-term revenue. Business decisions are evaluated against whether they remain enjoyable and operationally realistic over long time horizons.
 
-###  Distinctive Insight
+### Distinctive Insight
 
-* Simplicity scales and complexity fails—the sustainable seven-figure solopreneur path is building a business you would run for a decade at modest daily creative hours, not maximizing revenue until burnout; lifestyle endurance is the constraint that shapes every content and offer decision.
+- Simplicity compounds. A small number of proven ideas, consistently distributed across multiple channels and offers, creates more durable growth than increasingly complex funnels, systems, and content strategies.
 
-###  Source
+### Source
 
-* Why This 7-Figure Founder Works Just 2 Hours a Day with Justin Welsh [R21F79Et98c].md
+- Why This 7-Figure Founder Works Just 2 Hours a Day with Justin Welsh
+

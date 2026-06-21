@@ -1,21 +1,24 @@
 # Chris Walker | Strategic B2B Framework
 
-###  Core Content Architecture
+### Core Content Architecture
 
-* Walker argues blanket LinkedIn advice is not free—it costs time and capital when applied without context. Organic distribution as "the only thing that matters" breaks when TAM is 500 enterprise accounts (where $10K can reach all buyers continuously); killing SDR roles works at $4K ACV but fails at $250K ACV where prospecting still converts.
-* Public thought-leadership content that exposes IP via screen shares is a depreciating moat: competitors trademark his terminology, clone his frameworks into products, and AI can rebuild screenshots into working software in minutes—leaving deep customer connection, measurable business outcomes, and the automation behind those outcomes as the only durable advantages.
-* Dark-funnel / demand-creation investments (brand, content, events) fail when marketing teams launch without baseline measurement finance can defend; within six months the CFO asks for ROI, attribution breaks on untrackable touchpoints, and budgets revert to performance marketing—making the CFO, not the CMO, the person who must fix cross-functional GTM data architecture.
+- Treats content as a demand creation system rather than a lead generation channel. The objective is to educate the market, shape buying preferences, and create future demand long before prospects enter a sales process.
+- Rejects universal B2B marketing playbooks. Walker argues that channel strategy, sales motions, and attribution models must be built around company economics, deal size, market size, and buying behavior rather than industry trends.
+- Uses content to capture and influence "dark social" activity. Buying decisions are heavily shaped through private conversations, Slack groups, internal meetings, podcasts, and peer recommendations that traditional attribution systems cannot track.
+- Believes competitive advantage comes from customer understanding and execution systems rather than publicly shared frameworks. As AI and software make tactical knowledge easier to replicate, durable advantages increasingly come from operational excellence and market insight.
 
-###  Operational Metrics & Tactics
+### Operational Metrics & Tactics
 
-* Pipeline creation must be evaluated as one machine—not "marketing sourced" vs. "outbound." When CMOs own most demand-creation budget but prospecting teams control call quality, messaging, and meeting qualification, pipeline stalls regardless of content or ad spend; fixing this requires finance-led RevOps modeling across the full $50M GTM budget, not just the marketing line item.
-* Low quota attainment and low SDR ROI are usually pipeline problems driven by marketing ROI failure, not sales execution failure—Walker treats this as a data architecture problem between finance and CRM that prevents humans (and AI) from agreeing on where investments pay off.
-* For AI-enabled GTM, product-side AI outpaces go-to-market AI because B2B CRM/finance data is fragmented—50 people reviewing the same CRM produce 50 different answers—so AI operators cannot run GTM until a systematic, robot-readable data layer exists; DTC e-commerce will adopt AI GTM faster than B2B for this reason.
+- Evaluates pipeline as a single revenue system rather than separating marketing-sourced and sales-sourced opportunities. Demand creation, prospecting, qualification, and conversion must be measured together to understand actual business performance.
+- Treats attribution failures as a measurement problem rather than a content problem. Companies frequently underinvest in demand creation because attribution models over-credit bottom-funnel activities while ignoring earlier buying influences.
+- Advocates for finance-led revenue modeling when evaluating marketing investments. Budget allocation decisions should reflect total pipeline impact rather than channel-level attribution reports.
+- Argues that AI adoption in go-to-market functions depends on clean, structured business data. Organizations with fragmented CRM and revenue systems will struggle to deploy AI effectively regardless of tool quality.
 
-###  Distinctive Insight
+### Distinctive Insight
 
-* Strategic GTM transformation only survives when the CFO rebuilds how investments are modeled, scrutinized, and allocated across department cracks—marketing leaders cannot prove dark-funnel ROI alone, and hiring the best performance marketer or influencer partner will not fix a measurement system designed for last-click attribution.
+- Most companies over-invest in demand capture while under-investing in demand creation. As a result, they compete aggressively for existing buyers while failing to influence the much larger group of future buyers who are not yet in market.
 
-###  Source
+### Source
 
-* B2B Marketing Is Changing [XgpRKXoU8M4].md
+- B2B Marketing Is Changing
+

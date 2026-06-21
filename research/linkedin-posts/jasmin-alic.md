@@ -1,21 +1,24 @@
-# Jasmin Alic | Strategic B2B Framework
+# Jasmin Alić | Strategic B2B Framework
 
-###  Core Content Architecture
+### Core Content Architecture
 
-* Alic built initial LinkedIn traction through commenting-first distribution—not daily posting volume—based on the insight that in the feed, the brain registers your face and words equally whether they appear in a post or a comment; commenting puts you in every region and time zone without a publishing clock.
-* He posts a maximum of four times per week (Monday–Thursday), skips posts entirely when unavailable (even entire weeks while traveling), and refuses scheduled posts because scheduling signals you will not be present for the audience—"never post and ghost" is his non-negotiable rule for non-celebrity accounts building trust.
-* Posting is subordinate to presence: he will skip a post if even one minute late to the publish window rather than publish without being in comments immediately—because LinkedIn's algorithm tests content with first-degree connections first, and early comment velocity determines whether a post expands beyond that circle.
+- Treats commenting as the primary distribution channel for personal brand growth. Rather than relying on posting frequency, Alic uses thoughtful comments to repeatedly place his expertise in front of relevant audiences and accelerate network expansion.
+- Views LinkedIn as a relationship platform before a content platform. Consistent engagement builds familiarity and trust long before a prospect becomes a follower, subscriber, or customer.
+- Prioritizes active participation over content scheduling. Posts are only published when he can immediately engage with responses, allowing conversations to compound reach and strengthen audience relationships.
+- Builds visibility through repeated exposure rather than viral content. Frequent appearances in relevant discussions create recognition and credibility that accumulate over time.
 
-###  Operational Metrics & Tactics
+### Operational Metrics & Tactics
 
-* LinkedIn hour: a calendar-blocked daily session (12:30 PM, one hour) dedicated exclusively to commenting—no AI, no VA, no automation—with a target of 150–250 comment replies in the first hour using optimized feed filters (most relevant, most recent, pinned comments); this compounds to 1,000+ comments per week sustained over four years.
-* When unavailable at the exact posting time, he skips rather than schedules—contrasting with creators who schedule because they cannot be present; he argues 99% of LinkedIn users need live engagement to earn trust, unlike celebrity accounts where comment replies are optional.
-* Comment quality drives notification chains: thoughtful comments trigger replies, which trigger further replies—creating visibility loops that outperform seven consecutive daily posts from someone who ignores the commenting layer.
+- Maintains a dedicated daily commenting block focused exclusively on engagement. The objective is not content creation but systematic participation in conversations occurring within the target audience.
+- Targets hundreds of comment interactions weekly, creating a consistent visibility loop that generates profile visits, connection requests, and follower growth without increasing posting frequency.
+- Uses early engagement as a signal amplifier. Immediate participation in post discussions increases conversation volume and improves the likelihood that content reaches second- and third-degree networks.
+- Avoids "post and ghost" behavior. Publishing content without responding to comments is treated as a missed distribution opportunity because engagement often drives more reach than the original post itself.
 
-###  Distinctive Insight
+### Distinctive Insight
 
-* Commenting daily matters more than posting daily for reach—four posts per week plus 1,000 weekly comments beats daily posting without engagement, because LinkedIn rewards the commenting rate as an easy algorithm signal and non-famous creators are "not famous enough to post and ghost."
+- Consistent commenting creates more sustainable audience growth than increasing posting frequency. Visibility compounds through participation in conversations, not just through publishing content.
 
-###  Source
+### Source
 
-* LinkedIn Masterclass How to Generate High-Value Leads Organically [R2J67k2Z6WU].md
+- LinkedIn Masterclass: How to Generate High-Value Leads Organically
+
