@@ -1,24 +1,78 @@
-# Amanda Natividad | Strategic B2B Framework
+# Amanda Natividad | LinkedIn Posts
 
-### Core Content Architecture
+## Post 1: The Zero-Click Search Paradigm Shift
 
-- Popularized the concept of zero-click content, where the complete value of an insight is delivered directly on the platform rather than behind a link. Content is designed to build awareness, trust, and recall before any conversion attempt occurs.
-- Treats social platforms as distribution ecosystems rather than traffic sources. The primary objective is maximizing visibility and memorability within target audiences, not maximizing click-through rates.
-- Frames content as a long-term brand-building asset. High-quality content supports customer acquisition, sales enablement, customer education, and market positioning simultaneously.
-- Uses audience attention as a leading indicator of future demand. Visibility among buyers today creates opportunities months later when purchasing intent emerges.
+June 2026
 
-### Operational Metrics & Tactics
+Link: 
 
-- Replaces traditional ROI evaluation with VOI (Value on Investment), measuring outcomes such as branded search growth, audience engagement, market awareness, and downstream revenue influence.
-- Uses employee advocacy as a scalable distribution system. Multiple subject-matter experts publishing consistently create broader reach and stronger market penetration than relying on a single corporate account.
-- Evaluates content performance through correlation rather than last-touch attribution. Metrics such as demo requests, sales conversations, newsletter growth, and branded search trends are monitored together to identify influence.
-- Recognizes dark social as a major driver of B2B buying behavior. Content is optimized for sharing through private channels such as Slack, WhatsApp, email, and direct messages where attribution data is often lost.
+[https://www.linkedin.com/posts/amandanat_when-google-stops-sending-clicks-what-still-activity-7470490713688850432-RXwC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8m65QBcqY4_RmKPosShZbFiMFHEs1jO2s](https://www.linkedin.com/posts/amandanat_when-google-stops-sending-clicks-what-still-activity-7470490713688850432-RXwC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8m65QBcqY4_RmKPosShZbFiMFHEs1jO2s)
 
-### Distinctive Insight
+68% of Google searches now end without a click... to *anywhere.*
 
-- Most B2B content fails because it is designed to generate clicks rather than build memory. Buyers are far more likely to purchase from brands they repeatedly encounter and remember than from brands that optimize solely for immediate traffic.
+That finding comes from my co-author Rand Fishkin's latest research, and yes, it's a doozy. But before you spiral into "is SEO dead?" — don't.
 
-### Source
+Because the click was never the point. It was just the thing we could measure.
 
-- Zero-Click Content Isn't the Enemy of ROI – It's the Future
+For years, we treated traffic like the scoreboard. More sessions meant the strategy was working. Less traffic meant something was broken.
+
+But if Google, AI Overviews, Amazon, social feeds, and AI tools are increasingly filtering, ranking, summarizing, and recommending before a person ever lands on your site, then the job changes.
+
+You don't just need to "get the click."
+
+You need to become the brand people and machines look for by name.
+
+I wrote up what I'd actually do about it:
+
+• who's still winning Google's clicks, and why it's not just "better content"
+
+• why AI-referred visitors may be fewer but more valuable
+
+• why branded search, owned assets, and correlation dashboards matter more than traffic charts
+
+• the 3 bets I'd make that survive every algorithm update
+
+I regret to inform you that clicks probably aren't coming back. But you can build marketing that still works when they don't.
+
+Full piece here: [https://lnkd.in/gDkk8i-N](https://lnkd.in/gDkk8i-N)
+
+🎧 And I also dropped a bonus Field Notes episode of the Zero Click Marketing podcast if you'd rather listen than read.
+
+### Annotation
+
+- Demonstrates the zero-click content philosophy and platform-native content distribution.  
+- Shifts measurement away from traffic and toward brand awareness, branded search, and audience recall.  
+- Reinforces the importance of building visibility where audiences consume information rather than relying on website visits.
+
+---
+
+## Post 2: Developer-Specific Attention and Channel Selection Error
+
+June 2026
+
+Link: 
+
+[https://www.linkedin.com/posts/amandanat_software-developers-use-google-less-than-activity-7468319420340191232-iQDa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8m65QBcqY4_RmKPosShZbFiMFHEs1jO2s](https://www.linkedin.com/posts/amandanat_software-developers-use-google-less-than-activity-7468319420340191232-iQDa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8m65QBcqY4_RmKPosShZbFiMFHEs1jO2s)
+
+Software developers use Google *less* than the average American.
+
+We ran a SparkToro audience research report on software developers at startups, and only ~82% of them use Google — versus ~95% of the US population.
+
+So where does their attention actually go?
+
+• Claude: they use it roughly 4x more than the average person
+
+• Perplexity, Brave, DeepSeek: all over-indexing
+
+• GitHub: a bigger "social network" for this crowd than LinkedIn
+
+The lesson for anyone trying to market to developers: ranking 1st on Google matters less than you may think. But figuring out whether you show up (accurately) in Claude when a developer asks about your category — that's the marketing outcome worth chasing.
+
+Full breakdown, plus how we'd market to this audience: [https://lnkd.in/gf6bzhVj](https://lnkd.in/gf6bzhVj)
+
+### Annotation
+
+- Demonstrates audience research as a foundation for channel selection and content strategy.
+- Uses behavioral data to challenge assumptions about where technical buyers spend attention.
+- Highlights the growing importance of AI platforms, alternative search tools, and niche communities in B2B marketing.
 

@@ -86,30 +86,33 @@ LinkedIn:
 
 ---
 
-## Chris Walker
+## Nick Bennett
 
-Role: Founder & CEO, Refine Labs / Passetto
+Role: Co-Founder, TACK & Author
 
-Category: Demand Generation & Attribution
+Category: B2B Influencer Marketing & Creator-Led GTM
 
 Reason for Selection:
 
-Re-engineered modern B2B pipeline metrics by exposing traditional attribution gaps and defining dark social behaviors.
+Pioneered institutional frameworks for B2B creator programs and established tactical playbooks for converting organic dark social engagement signals into high-velocity ABM pipeline.
 
 Primary Research Asset:
 
-B2B Marketing Is Changing
+B2B Influencer Marketing: Work With Creators to Generate Authentic and Effective Marketing
 
 Primary Themes:
 
-- Dark Social
-- Demand creation mechanisms
-- Hybrid attribution models
-- Enterprise GTM pattern shifts
+- B2B Creator Strategy & Evaluation Frameworks
+
+- Signal-Led Account-Based Marketing (ABM)
+
+- Organic LinkedIn Pipeline Activation
+
+- ICP Depth Metrics vs. Vanity Impression Reach
 
 LinkedIn:
 
-[https://www.linkedin.com/in/chriswalker171](https://www.linkedin.com/in/chriswalker171)
+[https://www.linkedin.com/in/nickbennett1](https://www.linkedin.com/in/nickbennett1)
 
 ---
 

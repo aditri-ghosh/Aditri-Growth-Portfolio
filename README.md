@@ -133,7 +133,7 @@ I selected 10 operators with different strengths across B2B SaaS growth:
 
 1. Adam Robinson
 2. Amanda Natividad
-3. Chris Walker
+3. Nick Bennett
 4. Justin Welsh
 5. Jasmin Alić
 6. Katelyn Bourgoin

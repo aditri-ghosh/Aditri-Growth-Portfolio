@@ -1,27 +1,86 @@
-# Tommy Clark | Strategic B2B Framework
+# Tommy Clark | LinkedIn Posts
 
-### Core Content Architecture
+## Post 1: Architecting a Corporate "Content Ecosystem" Across B2B SaaS Leadership
 
-- Repositions LinkedIn from an outbound sales channel to a distribution engine. Rather than relying on cold outreach, content should be used to build familiarity, trust, and audience ownership before sales conversations occur.
-- Advocates for founder-led content as the primary B2B growth mechanism, but argues that generic expertise posts are no longer sufficient. As LinkedIn becomes more saturated, content must increasingly rely on personal narratives, real experiences, opinions, and defensible industry perspectives that cannot be replicated by AI.
-- Treats LinkedIn profiles as conversion-focused landing pages rather than digital resumes. Every profile element, including headline, featured links, custom buttons, and social proof, should support the conversion of profile visitors into followers, subscribers, leads, or customers.
-- Uses a structured content funnel framework that balances reach, authority, and conversion. Top-of-funnel content generates awareness, middle-of-funnel content establishes category expertise, and bottom-of-funnel content creates buying intent without overwhelming audiences with product promotion.
+June 2026
 
-### Operational Metrics & Tactics
+Link: 
 
-- Recommends a 1-3-1 content distribution model for founders posting five times per week:
-  - 1 top-of-funnel awareness post
-  - 3 middle-of-funnel authority-building posts
-  - 1 bottom-of-funnel conversion-focused post
-- Implements "Audience Design" by sending strategic connection requests to ICP-aligned prospects. Accepted requests create mutual follows, increasing the likelihood that prospects enter the content ecosystem and repeatedly encounter future content.
-- Uses outbound engagement as a growth lever. Regularly commenting on creator content exposes expertise to overlapping audiences, creates reciprocal engagement loops, and increases visibility among target buyers.
-- Prioritizes intent-based outreach using behavioral signals. Profile viewers, post engagers, and content consumers are treated as warm prospects and become outreach priorities because they have already demonstrated interest through platform activity.
+[https://www.linkedin.com/posts/tclarkmedia_founder-led-content-is-table-stakes-in-2026-activity-7471212271277543427-JjzY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8m65QBcqY4_RmKPosShZbFiMFHEs1jO2s](https://www.linkedin.com/posts/tclarkmedia_founder-led-content-is-table-stakes-in-2026-activity-7471212271277543427-JjzY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8m65QBcqY4_RmKPosShZbFiMFHEs1jO2s)
 
-### Distinctive Insight
+Founder-led content is table stakes in 2026. The real savvy tech companies are layering in multiple executive accounts, creating a ‘Content Ecosystem.’ Here’s how (and why) it works.
 
-- The most effective LinkedIn lead generation system combines content distribution, audience design, outbound engagement, and intent-based outreach into a single flywheel. Outreach becomes significantly more effective when prospects have already consumed content and developed familiarity with the creator.
+LinkedIn is a volume-constrained platform. Your CEO can really only post once…maybe twice…per day. I suppose you could rip three+ posts daily, but that doesn’t seem wise.
 
-### Source
+So, as companies mature from startup to scale-up, it makes sense to activate more folks for thought leadership.
 
-- The Best LinkedIn Lead Generation Strategy for 2026
+This opens up more volume without turning your CEO’s account into a spam cannon.
+
+You’re also able to tailor each voice in your company to reach a subset of your ICP.
+
+For example, your CEO may be focused on lead generation. Your CTO might focus more on recruiting engineering talent. Your marketing manager might be better suited to reach a more junior segment of your ICP. See how this works?
+
+If I were running marketing at a SaaS company doing $10M+ ARR, I’d do whatever I could to get 4-5 executive voices active on LinkedIn.
+
+I’m seeing more demand for this motion from prospects. I just had a Series B company on our roster expand from the founder to two more C-Suite execs. Another earlier-stage company has four of their team members working with us. I suspect the appetite for this will only increase.
+
+### Annotation
+
+- Demonstrates how B2B SaaS companies can expand reach through multiple employee-led LinkedIn accounts.
+
+- Explains how different executives can engage different segments of the target audience.
+
+- Highlights content ecosystems as a scalable alternative to relying solely on founder-led content.
+
+---
+
+## Post 2: Copywriting Mechanics for Modern, Non-Templated LinkedIn Hooks
+
+May 2026
+
+Link: 
+
+[https://www.linkedin.com/posts/tclarkmedia_how-to-actually-write-great-linkedin-hooks-activity-7458130348602781696-1iha?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8m65QBcqY4_RmKPosShZbFiMFHEs1jO2s](https://www.linkedin.com/posts/tclarkmedia_how-to-actually-write-great-linkedin-hooks-activity-7458130348602781696-1iha?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8m65QBcqY4_RmKPosShZbFiMFHEs1jO2s)
+
+How to (actually) write great LinkedIn hooks in 2026.
+
+‘Boilerplate’ hooks are dead.
+
+“I spoke to the CRO of a $3B company last week and here’s what I learned.”
+
+“I spent 17 hours reviewing 3000+ ad creatives so you don’t have to.”
+
+The problem with these types of templated hooks is that they’re too OBVIOUS. There’s no subtlety. And *everyone’s* using them.
+
+To write great hooks in 2026, you must use the hook levers without being overly explicit about them. Let’s look at two examples:
+
+First one comes from Tanay at Wispr Flow.
+
+“The best hire we've made this year spammed me with cold emails. I almost blocked him. Now he's in India running our biggest launch ever.”
+
+You have:
+
+- Negativity bias
+- Narrative hook
+- Contrast
+
+Another example, from John Kim at Paraform.
+
+“Every “hottest startups” list is lying to you. We ranked them by what matters most: Talent Density.”
+
+This time, we have:
+
+- Negativity bias
+- Proprietary data
+- Coining a term
+
+The key is, neither of these examples feels overstated. They’re not trying too hard. You see how this works?
+
+### Annotation
+
+- Demonstrates modern LinkedIn hook-writing principles and attention-capture techniques.
+
+- Explains how narrative tension, contrast, and proprietary insights increase engagement.
+
+- Highlights the decline of formulaic hooks in favor of more natural and curiosity-driven openings.
 

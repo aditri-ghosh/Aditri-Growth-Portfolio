@@ -1,24 +1,48 @@
-# Des Traynor | Strategic B2B Framework
+# Des Traynor | LinkedIn Posts
 
-### Core Content Architecture
+## Post 1: Platform Rebuilds for an AI-First World
 
-- Advocates for category-level positioning rather than feature-level competition. Intercom's AI product, Finn, was deliberately positioned as a standalone AI-native company rather than "Intercom's AI feature" to establish credibility alongside AI-first products like Cursor, Perplexity, and Harvey.
-- Uses narrative-driven strategic communication to build conviction around major company pivots. Rather than framing AI as an enhancement to existing software, Traynor repeatedly communicates AI as a fundamental shift requiring new products, new teams, and new organizational structures.
-- Treats category creation as a positioning advantage. Finn was separated from the Intercom brand, given its own identity, domain, and go-to-market motion to avoid being perceived as an incumbent software company retrofitting AI into an existing product suite.
-- Believes businesses should communicate transformation through decisive actions rather than incremental messaging. Large strategic shifts require visible organizational changes that signal commitment both internally and externally.
+May 2026
 
-### Operational Metrics & Tactics
+Link: [https://www.linkedin.com/posts/destraynor_surviving-ai-isnt-just-build-toy-ai-features-activity-7455996789201141760-hksE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8m65QBcqY4_RmKPosShZbFiMFHEs1jO2s](https://www.linkedin.com/posts/destraynor_surviving-ai-isnt-just-build-toy-ai-features-activity-7455996789201141760-hksE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8m65QBcqY4_RmKPosShZbFiMFHEs1jO2s)
 
-- Operates using a "Lab → Factory" framework for AI product development. Teams first prove a capability through experimentation and evaluation ("the lab"), then productize and scale it through conventional software processes ("the factory").
-- Uses structured evaluation systems before deploying AI improvements. New prompts, models, workflows, and architectures are tested against benchmark scenarios comparing current output, ideal output, and candidate output before release decisions are made.
-- Replaced long-term planning cycles with shorter operating horizons. Product roadmaps run approximately six months with formal reassessment points after twelve weeks to accommodate rapid changes in AI capabilities and competitive dynamics.
-- Organizes teams around dedicated workstreams rather than rigid feature delivery schedules. Each workstream owns a specific problem domain, meets weekly to report learning progress, and is evaluated on capability development rather than deadline adherence.
+Surviving AI isn't just
 
-### Distinctive Insight
+• build toy AI features (2023),
 
-- Traditional software companies operate like factories, but AI companies must operate like laboratories. In AI development, capability discovery precedes product planning, and empirical testing replaces deterministic roadmapping as the primary mechanism for decision-making.
+• or a Copilot(2024),
 
-### Source
+• or even an AI agent (2025),
 
-- SaaS is Dead: This Is How Intercom Became a True AI-First Company and Is Reaping the Rewards
+• it's also... rebuilding your entire platform for an AI-first world (2026)
+
+Systems of record simply won't stay relevant without a rebuild. The world moves on without them. When 70% of your CS is resolved by agents, and the rest is resolved by Humans+Agents, surprisingly the features and interface start to look very different.
+
+That's why we just launched Intercom 2.
+
+[http://intercom(.)com/intercom2](http://intercom(.)com/intercom2) ← for details.
+
+### Annotation
+
+- Demonstrates how AI is reshaping software architecture and product design.
+- Argues that traditional systems of record must evolve to support agent-driven workflows.
+- Positions platform rebuilds as a strategic requirement rather than a feature upgrade.
+
+---
+
+## Post 2: Social Proof and Support Automation Economics
+
+June 2026
+
+Link: [https://www.linkedin.com/posts/destraynor_the-fantastic-team-at-personio-use-fin-to-activity-7470467706199252992-icUK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8m65QBcqY4_RmKPosShZbFiMFHEs1jO2s](https://www.linkedin.com/posts/destraynor_the-fantastic-team-at-personio-use-fin-to-activity-7470467706199252992-icUK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8m65QBcqY4_RmKPosShZbFiMFHEs1jO2s)
+
+The fantastic team at Personio use Fin to automate 80% of their support. Fin resolves 30,000 customer problems, instantly, accurately, every month.
+
+If you have massive support volumes and/or headaches and need a extremely fast and effective solution, just ping me.
+
+### Annotation
+
+- Demonstrates the use of customer proof and operational metrics in product marketing.
+- Uses automation and resolution data to establish credibility and reduce perceived buyer risk.
+- Reinforces outcome-based storytelling through measurable business results.
 
