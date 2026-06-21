@@ -25,13 +25,10 @@ This index maps the 10 core B2B growth operators to the specific primary researc
 
 Experts were selected based on:
 
-* Demonstrated business outcomes
-
-* Consistent LinkedIn publishing
-
-* Distinct strategic perspectives
-
-* Relevance to B2B SaaS growth
+- Demonstrated business outcomes
+- Consistent LinkedIn publishing
+- Distinct strategic perspectives
+- Relevance to B2B SaaS growth
 
 ---
 
@@ -51,17 +48,14 @@ How to Grow Your SaaS From $0 to $10M ARR (1+ Hour FREE COURSE)
 
 Primary Themes:
 
-* Build in Public
-
-* Founder-led marketing
-
-* Growth loops
-
-* Lean scaling
+- Build in Public
+- Founder-led marketing
+- Growth loops
+- Lean scaling
 
 LinkedIn:
 
-[https://www.linkedin.com/in/retentionadam/](https://www.linkedin.com/in/retentionadam/)
+[https://www.linkedin.com/in/retentionadam](https://www.linkedin.com/in/retentionadam/)
 
 ---
 
@@ -81,17 +75,14 @@ Zero-Click Content Isn't the Enemy of ROI – It's the Future (Amanda Natividad,
 
 Primary Themes:
 
-* Zero-Click Marketing
-
-* Content distribution frameworks
-
-* Audience value creation
-
-* Algorithmic feed optimization
+- Zero-Click Marketing
+- Content distribution frameworks
+- Audience value creation
+- Algorithmic feed optimization
 
 LinkedIn:
 
-[https://www.linkedin.com/in/amandanat/](https://www.linkedin.com/in/amandanat/)
+[https://www.linkedin.com/in/amandanat](https://www.linkedin.com/in/amandanat/)
 
 ---
 
@@ -111,17 +102,14 @@ B2B Marketing Is Changing
 
 Primary Themes:
 
-* Dark Social
-
-* Demand creation mechanisms
-
-* Hybrid attribution models
-
-* Enterprise GTM pattern shifts
+- Dark Social
+- Demand creation mechanisms
+- Hybrid attribution models
+- Enterprise GTM pattern shifts
 
 LinkedIn:
 
-[https://www.linkedin.com/in/chriswalker171/](https://www.linkedin.com/in/chriswalker171)
+[https://www.linkedin.com/in/chriswalker171](https://www.linkedin.com/in/chriswalker171)
 
 ---
 
@@ -141,13 +129,10 @@ Why This 7-Figure Founder Works Just 2 Hours a Day with Justin Welsh
 
 Primary Themes:
 
-* Content operating systems
-
-* Asynchronous business models
-
-* Single-idea narrative leverage
-
-* Solopreneur systems design
+- Content operating systems
+- Asynchronous business models
+- Single-idea narrative leverage
+- Solopreneur systems design
 
 LinkedIn:
 
@@ -171,13 +156,10 @@ LinkedIn Masterclass How to Generate High-Value Leads Organically
 
 Primary Themes:
 
-* Community-led pipeline creation
-
-* White-space layout architecture
-
-* Profile landing page optimization
-
-* Comment-first social frameworks
+- Community-led pipeline creation
+- White-space layout architecture
+- Profile landing page optimization
+- Comment-first social frameworks
 
 LinkedIn:
 
@@ -201,13 +183,10 @@ Buyer Psychology Be Buyable
 
 Primary Themes:
 
-* Jobs-To-Be-Done (JTBD) application
-
-* Uncovering customer friction
-
-* Purchasing trigger identification
-
-* De-risking early-stage software buys
+- Jobs-To-Be-Done (JTBD) application
+- Uncovering customer friction
+- Purchasing trigger identification
+- De-risking early-stage software buys
 
 LinkedIn:
 
@@ -231,13 +210,10 @@ The Best LinkedIn Lead Generation Strategy for 2026
 
 Primary Themes:
 
-* Signal-based warm outreach
-
-* Content-led growth funnels
-
-* 2026 platform mechanics
-
-* Organic conversation conversion
+- Signal-based warm outreach
+- Content-led growth funnels
+- 2026 platform mechanics
+- Organic conversation conversion
 
 LinkedIn:
 
@@ -261,13 +237,10 @@ How Anthony Pierri Built a $140K/Month Business Using ONLY LinkedIn
 
 Primary Themes:
 
-* Homepage messaging teardowns
-
-* Feature translation frameworks
-
-* Horizontal to vertical positioning
-
-* Product service monetization
+- Homepage messaging teardowns
+- Feature translation frameworks
+- Horizontal to vertical positioning
+- Product service monetization
 
 LinkedIn:
 
@@ -291,13 +264,10 @@ SaaS is dead This is how Intercom became a true AI first company and is reaping 
 
 Primary Themes:
 
-* Autonomous AI agents
-
-* Usage-based billing infrastructure
-
-* Legacy revenue cannibalization
-
-* Enterprise performance execution
+- Autonomous AI agents
+- Usage-based billing infrastructure
+- Legacy revenue cannibalization
+- Enterprise performance execution
 
 LinkedIn:
 
@@ -321,13 +291,10 @@ He Built a $20KMonth SaaS From a Weekend Project (No BS Guide)
 
 Primary Themes:
 
-* Micro-SaaS development loops
-
-* Radical MVP constraint
-
-* Unfunded validation engines
-
-* Organic community loops
+- Micro-SaaS development loops
+- Radical MVP constraint
+- Unfunded validation engines
+- Organic community loops
 
 LinkedIn:
 

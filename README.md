@@ -1,5 +1,7 @@
 # Aditri Growth Portfolio Project
 
+## Phase 1: Environment Setup
+
 ## Tools Installed
 
 - Cursor IDE
@@ -115,4 +117,154 @@ One thing that stood out to me during this project was that technical work rarel
 
 Although I come from a non-technical background, this exercise showed me that most technical challenges can be solved by breaking them into smaller steps, searching for reliable information, and methodically troubleshooting each issue. It also reinforced the importance of staying patient when things do not work immediately.
 
-Overall, this project gave me practical exposure to GitHub, Git, Cursor, and technical troubleshooting, while helping me become more confident in learning new tools independently.
+Overall, this project gave me practical exposure to GitHub, Git, Cursor, and technical troubleshooting, while helping me become more confident in learning new tools independently.  
+
+## Phase 2: LinkedIn Organic Content Strategy Research
+
+### Project Goal
+
+The goal of this phase was to understand how successful B2B SaaS operators use LinkedIn to build audiences, generate demand, strengthen positioning, and create pipeline.
+
+Rather than collecting generic marketing advice, I focused on identifying repeatable frameworks, content systems, distribution strategies, and growth mechanisms used by practitioners actively building SaaS businesses.
+
+### Experts Researched
+
+I selected 10 operators with different strengths across B2B SaaS growth:
+
+1. Adam Robinson
+2. Amanda Natividad
+3. Chris Walker
+4. Justin Welsh
+5. Jasmin Alić
+6. Katelyn Bourgoin
+7. Tommy Clark
+8. Anthony Pierri
+9. Des Traynor
+10. Lukas Hermann
+
+### Data Collection Process
+
+#### Step 1: Source Selection
+
+I identified long-form interviews, podcasts, educational videos, and public content from each operator.
+
+#### Step 2: Transcript Retrieval
+
+I created a Python script (`scripts/fetch_transcripts.py`) and used the Supadata API to retrieve transcript data from YouTube videos.
+
+The transcripts were stored inside:
+
+`research/youtube-transcripts/`
+
+#### Step 3: Research Organization
+
+I organized the collected materials into separate folders for:
+
+- Source documentation
+- Transcript archives
+- Individual operator playbooks
+
+This made it easier to analyze each operator independently and keep the repository structured.
+
+#### Step 4: Strategic Synthesis
+
+I reviewed the transcript data and extracted:
+
+- Positioning frameworks
+- Content operating systems
+- Distribution strategies
+- Demand generation approaches
+- Growth playbooks
+- Decision-making principles
+
+The findings were documented in:
+
+`research/linkedin-posts/`
+
+### Repository Structure
+
+#### Sources
+
+Contains the master research catalog with links, notes, and selection rationale for each expert.
+
+Location:
+
+`research/sources.md`
+
+#### LinkedIn Playbooks
+
+Contains individual research summaries and framework breakdowns for all 10 operators.
+
+Location:
+
+`research/linkedin-posts/`
+
+#### Transcript Archive
+
+Contains the raw transcript files collected during the research process.
+
+Location:
+
+`research/youtube-transcripts/`
+
+#### Retrieval Script
+
+Contains the Python script used to retrieve transcript data.
+
+Location:
+
+`scripts/fetch_transcripts.py`
+
+### Challenges I Ran Into and How I Solved Them
+
+#### Challenge 1: Retrieving Transcript Data at Scale
+
+Problem:
+
+Manually copying long-form transcript content would have been slow and difficult to maintain.
+
+Solution:
+
+I created a Python-based workflow using the Supadata API to retrieve transcript data programmatically and store it directly inside the repository.
+
+#### Challenge 2: Separating Signal from Noise
+
+Problem:
+
+Long-form interviews contain a mixture of stories, opinions, and actionable frameworks.
+
+Solution:
+
+I focused only on concrete systems, positioning frameworks, operating principles, distribution strategies, and growth mechanisms that could be supported by transcript evidence.
+
+#### Challenge 3: Maintaining Consistency Across 10 Operators
+
+Problem:
+
+Each operator discusses different topics and uses different terminology.
+
+Solution:
+
+I standardized every research file using the same structure so that strategies could be compared across operators more easily.
+
+### Key Takeaways
+
+Across all 10 operators, the strongest LinkedIn strategies were built around:
+
+- Clear positioning
+- Deep audience understanding
+- Consistent content distribution
+- Demand creation over lead chasing
+- Repeatable content systems rather than individual viral posts
+
+### Outcome
+
+This repository contains:
+
+- 10 researched B2B SaaS operators
+- Annotated source documentation
+- Transcript archive
+- Strategic playbooks derived from transcript analysis
+- A custom transcript retrieval script
+
+The final result is a structured research dataset that can be used as the foundation for a future LinkedIn Organic Growth Playbook for B2B SaaS companies.
